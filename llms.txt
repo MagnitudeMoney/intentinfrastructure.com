@@ -1,0 +1,139 @@
+# Intent Infrastructure
+
+> Intent infrastructure lets you—or your agent—follow through on what you meant to do with your money.
+
+An independent map of the products solving intent for agents and commerce, published by Magnitude Inc. under its editorial policy: every placement has a source, and Magnitude's own products are placed by the same rules.
+
+Intent Infrastructure is made by Magnitude Inc. (https://www.magnitude.money/).
+
+## Pages
+
+- [Intent Infrastructure](https://intentinfrastructure.com/): Intent infrastructure lets you—or your agent—follow through on what you meant to do with your money.
+- [Editorial policy](https://intentinfrastructure.com/editorial-policy.md): The rules for what intentinfrastructure.com lists and how it shows it, written so they apply to Magnitude exactly as to everyone else.
+- [Blog](https://intentinfrastructure.com/posts/): Every claim stands on a source.
+- [Companies](https://intentinfrastructure.com/companies/): Every company, pick one.
+- [Products](https://intentinfrastructure.com/products/): Every builder that makes money move, from income to outcome.
+
+## Blog
+
+- [What is intent infrastructure?](https://intentinfrastructure.com/what-is-intent-infrastructure.md): Income → Indecision → Outcome is how money moves today. Income → Intent → Outcome is the market forming between paycheck and checkout.
+- [The web saved a seat for payment in 1992. It sat empty for 33 years.](https://intentinfrastructure.com/posts/http-402.md): Every page you load comes back with a three-digit number. 200 means here it is. 404 means it isn't there. Between them sits one that almost nobody has ever seen: 402, Payment Required .
+- [X.com was a bank first](https://intentinfrastructure.com/posts/xcom.md): Before it was a social network, and before it was PayPal, X.com was an attempt to put a whole bank on the web.
+- [To the card network, Amazon is still a bookstore](https://intentinfrastructure.com/posts/mcc.md): Every time you pay by card, the merchant arrives with a four-digit number attached. It is the merchant category code, or MCC, and it says what kind of business took your money. Your bank uses it to sort your spending, your card uses it to decide your rewards, and fraud systems use it to decide what looks normal.
+- [The Seattle banker who turned BankAmericard into Visa](https://intentinfrastructure.com/posts/hock.md): The card in your wallet runs on an organization that was designed, on purpose, to let rival banks cooperate. The man who designed it was a mid-level banker in Seattle.
+- [ChatGPT Wallet asks before every purchase](https://intentinfrastructure.com/posts/chatgpt-wallet.md): On November 13, 2026, OpenAI launched ChatGPT Wallet, a way for its agents, called dots, to pay for things on a person’s behalf. It was built with American Express, Mastercard and Visa, and starts with ChatGPT Pro subscribers in the US, aged 18 and older, with eligible US-issued cards ( OpenAI ).
+- [Navoka gives an AI agent its own bank account and card](https://intentinfrastructure.com/posts/navoka.md): On November 12, 2026, Wirex launched Navoka, an AI agent that pays on a person’s behalf from a bank account and card of its own ( Wirex ). Wirex announced it at Full Stack London and says access is by invitation for now ( Wirex ); navoka.com offers sign-up ( Navoka ). Navoka’s site says it is operated by Wirex Holdings Limited, and that the accounts, IBANs and cards come from a separate Wirex group company ( Navoka ).
+- [Rain Agent Vaults let an agent spend only what its vault holds](https://intentinfrastructure.com/posts/rain-agent-vaults.md): On November 10, 2026, Rain launched Agent Vaults, “embedded payment infrastructure that lets an AI agent spend, receive, and send money” ( Rain ). It is built for the companies that make agents: the release says the user, the rules and the balance sit with the partner that built the agent, and Rain says it is partnering with agent developers, marketplaces and payment platforms ( Rain ). The release gives no general-availability date ( Rain ).
+
+## Companies
+
+- [Visa: rails built for the amount, now learning the intent](https://intentinfrastructure.com/companies/visa.md): Visa began as Bank of America’s BankAmericard in 1958. In 1970 the card became a network owned by its member banks, and in 1976 it took the name Visa. Those rails were built to carry a payment, a merchant and an amount.
+- [Mastercard: from a bookstore code to proof of intent](https://intentinfrastructure.com/companies/mastercard.md): Mastercard codes Amazon purchases as 5942, Book Stores. That one code is the problem this site is about: the network knows the merchant, not what the person meant to buy.
+- [Stripe: assembling the layer piece by piece](https://intentinfrastructure.com/companies/stripe.md): Stripe has bought and built its way into intent infrastructure. Bridge brought stablecoin orchestration in 2024 and joined Stripe in 2025, and Privy followed with embedded wallets.
+- [Google: signing what the person agreed to](https://intentinfrastructure.com/companies/google.md): Google’s work is about proof. AP2, in September 2025, has the person sign a mandate before an agent pays.
+- [PayPal: checkout inside the agents](https://intentinfrastructure.com/companies/paypal.md): PayPal’s intent-infrastructure dates all come from the last year. Agent Ready readies merchants for agent checkout, and Instant Buy puts PayPal checkout inside Perplexity. Both are partial matches on the map.
+- [Amazon: still a bookstore, now an agent](https://intentinfrastructure.com/companies/amazon.md): Amazon opened as an online bookstore in 1995. Nearly thirty years later, Mastercard still codes its purchases as books.
+- [American Express: a token for intent](https://intentinfrastructure.com/companies/american-express.md): Both of American Express’s dates fall in April 2026. On 14 April it put Intent Intelligence in its developer kit for agentic commerce: a proof-of-intent token, created once the customer signs off. The kit went to select developers, and the integrations are still being built, so it reads as a partial match. It published the framework in October.
+- [Circle: caps before the dollars move](https://intentinfrastructure.com/companies/circle.md): Circle issues USDC, the dollar stablecoin launched in 2018 through Centre, a consortium with Coinbase. Circle has governed it alone since 2023.
+- [Coinbase: putting 402 to work](https://intentinfrastructure.com/companies/coinbase.md): Coinbase helped launch USDC through Centre in 2018.
+- [OpenAI: checkout in the chat](https://intentinfrastructure.com/companies/openai.md): On 29 September 2025 OpenAI launched the Agentic Commerce Protocol with Stripe. Its Shared Payment Tokens are single-use and capped, but the agent sets the cap, not the person, so it reads as a partial match.
+- [Shopify: intent from the merchant side](https://intentinfrastructure.com/companies/shopify.md): Shopify comes at intent from the store. With Google it launched the Universal Commerce Protocol and Universal Cart, which carry AP2’s consent proof.
+- [Alipay: preset limits for agents](https://intentinfrastructure.com/companies/alipay.md): Alipay’s AI Wallet and AI Pay arrived in 2025 and are known so far only through coverage, a partial match.
+- [FIS: an issuer business and an agent offering on the same day](https://intentinfrastructure.com/companies/fis.md): On 12 January 2026 FIS completed its purchase of Global Payments’ issuer business, the former TSYS, which became FIS Total Issuing Solutions.
+- [Lithic: from Privacy.com to rules at authorization](https://intentinfrastructure.com/companies/lithic.md): Lithic began as Privacy.com, the virtual-card company. In 2021 its card-issuing layer became the company, and Privacy.com stayed the consumer brand.
+- [Gusto: goals on payday](https://intentinfrastructure.com/companies/gusto.md): Gusto Wallet launched in October 2020 with savings goals that set money aside each payday, and Cashout, which advanced part of the next paycheck.
+- [Block: Afterpay and Cash App goals](https://intentinfrastructure.com/companies/block.md): Block’s dates run through two of its brands. It completed its acquisition of Afterpay in January 2022.
+- [Klarna: now or later on one card](https://intentinfrastructure.com/companies/klarna.md): The Klarna Card, from June 2025, lets a person pay now or later on one card. How the person chooses is not documented, so it sits on the map as a partial match.
+- [Monzo: sorting the salary as it lands](https://intentinfrastructure.com/companies/monzo.md): Monzo’s Salary Sorter and Bills Pots, from September 2019, split a paycheck the moment it arrives. The split is enforced at deposit, and bills are a softer hold.
+- [Starling Bank: a card for every Space](https://intentinfrastructure.com/companies/starling-bank.md): Since December 2022 Starling Bank’s Spaces have come with their own virtual cards. A Space’s card declines rather than dip into the main balance, so the person’s split holds at the moment of purchase.
+- [Skyfire: knowing the agent](https://intentinfrastructure.com/companies/skyfire.md): Skyfire’s KYA and KYAPay, from June 2025, identify the agents that pay. Limits set by the agent’s owner are not documented, so it is a partial match.
+- [Prove: identity, intent and consent](https://intentinfrastructure.com/companies/prove.md): Prove’s Verified Agent, from October 2025, ties a payment an agent makes to the person’s identity, intent and consent.
+- [Salesforce: agents for the merchant](https://intentinfrastructure.com/companies/salesforce.md): Agentforce Commerce, from November 2025, works on the merchant side of checkout, so it is a partial match on the map.
+- [Perplexity: buying inside the answer](https://intentinfrastructure.com/companies/perplexity.md): Instant Buy, built with PayPal and launched in November 2025, lets people buy inside Perplexity. It is a partial match on the map.
+- [Microsoft: checkout in Copilot](https://intentinfrastructure.com/companies/microsoft.md): Copilot Checkout, from January 2026, lets people buy inside Copilot. How the person confirms a purchase is not described, so it is a partial match.
+- [Cloudflare: proving the agent](https://intentinfrastructure.com/companies/cloudflare.md): The Trusted Agent Protocol, launched with Visa in October 2025, proves which agent is making a request. It proves the agent rather than what the person wants, so it is a partial match.
+- [Forter: a commerce engine for agents](https://intentinfrastructure.com/companies/forter.md): Forter’s Agentic Commerce Engine, from February 2026, is a partial match on the map.
+- [Santander: a live agent payment](https://intentinfrastructure.com/companies/santander.md): Santander made a live agent payment in March 2026. It was a pilot, and it reads as a partial match.
+- [Experian: trust for agents](https://intentinfrastructure.com/companies/experian.md): Experian’s Agent Trust, from April 2026, is built for payments made by agents. How it enforces anything is not yet clear, so it is a partial match.
+- [Meta: Muse asks first](https://intentinfrastructure.com/companies/meta.md): Muse, from September 2026, asks the person before each purchase and pays with a one-time Link card.
+- [Walmart: approve each, or set a limit](https://intentinfrastructure.com/companies/walmart.md): Walmart’s Agent Profiles, announced in October 2026, will let a person approve each purchase an agent makes, or set a limit in advance. Walmart said they launch within the month, so they sit on the map as pre-launch.
+- [Tempo: a protocol for machine payments](https://intentinfrastructure.com/companies/tempo.md): With Stripe, Tempo launched the Machine Payments Protocol in March 2026. Only coverage describes its limits, so it is a partial match.
+- [Lead Bank: the bank behind the stablecoin card](https://intentinfrastructure.com/companies/lead-bank.md): Lead Bank holds the money behind Bridge’s cards. Through that partnership, Visa card transactions can settle onchain, a programme that reached more than 100 countries in March 2026.
+
+## Products
+
+- [ACP + Shared Payment Tokens](https://intentinfrastructure.com/products/acp-shared-payment-tokens-openai-stripe/): Single-use token; the agent, not the person, sets the cap
+- [Agent Cards](https://intentinfrastructure.com/products/agent-cards-ramp/): Agent follows the fund's limits and approval policies; enforcement at authorization not stated
+- [Agent Pay](https://intentinfrastructure.com/products/agent-pay-mastercard/): Scoped tokens
+- [Agent Pay Trust Framework](https://intentinfrastructure.com/products/agent-pay-trust-framework-mastercard/): Risk signals help issuers approve agent transactions; how the person's intent is captured is not documented
+- [Agent Profiles](https://intentinfrastructure.com/products/agent-profiles-walmart/): Approve each purchase or set a limit; launching within the month of the announcement. Its Agent Gateway lets Walmart decide which agents get in
+- [Agent Ready](https://intentinfrastructure.com/products/agent-ready-paypal/): Merchant-side: accept payments on AI surfaces, with fraud screening and buyer protection
+- [Agent Trust](https://intentinfrastructure.com/products/agent-trust-experian/): Enforcement unclear
+- [Agent Vaults](https://intentinfrastructure.com/products/agent-vaults-rain/): The agent can spend only what the owner put in the vault; each purchase gets a single-use virtual card scoped to that job, and anything outside the rules is held for approval. The release names both the user and the partner platform as setting the rules
+- [Agent Wallets](https://intentinfrastructure.com/products/agent-wallets-circle/): Per-transaction, daily, weekly and monthly USDC caps and allowlists; changes confirmed by email code. Docs don't say a person, not a developer, sets them
+- [AgentCore Payments](https://intentinfrastructure.com/products/agentcore-payments-aws/): Agent pays for APIs, MCP servers and content over x402 when it gets an HTTP 402, within session spending limits set by the developer, not the person
+- [Agentforce Commerce](https://intentinfrastructure.com/products/agentforce-commerce-salesforce/): Merchant side: agent checkout for merchants; no shopper limits
+- [Agentic Commerce Engine](https://intentinfrastructure.com/products/agentic-commerce-engine-forter/): Merchant side: identity data attached to the payment token; fraud screening of agent traffic
+- [Agentic Commerce Trust Protocol](https://intentinfrastructure.com/products/agentic-commerce-trust-protocol-alipay/): Preset order times, spending limits and merchants (coverage only)
+- [Agentic payments](https://intentinfrastructure.com/products/agentic-payments-lithic/): Rules at authorization, set by the business through Lithic's API; the person's own setting not documented
+- [Agentic payments (MCP)](https://intentinfrastructure.com/products/agentic-payments-mcp-marqeta/): Spend and velocity controls set by the card program, not the person; MCP server in beta
+- [Agentic Ready](https://intentinfrastructure.com/products/agentic-ready-visa-issuers/): Pilot
+- [Agentic Storefronts](https://intentinfrastructure.com/products/agentic-storefronts-shopify/): Merchant side: catalog syndicated to AI chats; agents complete checkout
+- [AI Wallet / AI Pay](https://intentinfrastructure.com/products/ai-wallet-ai-pay-alipay/): The person approves each task before payment and tracks agent spend; no caps documented
+- [AP2](https://intentinfrastructure.com/products/ap2-google/): Signed mandates
+- [Apple Card Family limits](https://intentinfrastructure.com/products/apple-card-family-limits-apple/): Owner sets a per-transaction limit for each participant; the monthly total is an alert only. The support page doesn't say an over-limit purchase is declined
+- [Apple Cash Family](https://intentinfrastructure.com/products/apple-cash-family-apple/): Parent limits who the child can pay, or locks Apple Cash so the child can't make purchases; no amount the parent sets
+- [Automated Bond Ladder](https://intentinfrastructure.com/products/automated-bond-ladder-wealthfront/): The person sets how long and when the funds come back; Treasuries mature on those dates, paying interest and principal on schedule
+- [Autopilot → Vaults](https://intentinfrastructure.com/products/autopilot-vaults-sofi/): Enforced at deposit
+- [Bridge](https://intentinfrastructure.com/products/bridge-stripe/): Stablecoin orchestration
+- [Buy for Me / Alexa](https://intentinfrastructure.com/products/buy-for-me-alexa-amazon/): Auto-buys at a price target the person sets; Buy for Me's confirmation step not documented
+- [Cash flow automation](https://intentinfrastructure.com/products/cash-flow-automation-cache/): Moves money between a person's checking and savings to earn more interest; works with the person's bank (mycache.ai)
+- [ChatGPT Wallet](https://intentinfrastructure.com/products/chatgpt-wallet-openai/): Asks the person before every purchase, with Face ID or a fingerprint; the card network gives the merchant a token for that purchase, so neither the merchant nor the agent sees the card. With Visa, Mastercard and Amex
+- [Commercial VRP](https://intentinfrastructure.com/products/commercial-vrp-uk-payments-initiative/): Payments vary in amount within limits the payer agrees in advance
+- [Copilot Checkout](https://intentinfrastructure.com/products/copilot-checkout-microsoft/): Confirmation not described
+- [Direct deposit splits](https://intentinfrastructure.com/products/direct-deposit-splits-gusto/): Enforced at deposit
+- [FedNow](https://intentinfrastructure.com/products/fednow-federal-reserve/): Instant payment rail
+- [FIDO agent working groups](https://intentinfrastructure.com/products/fido-agent-working-groups-fido-alliance/): No spec yet
+- [Flexible Credential](https://intentinfrastructure.com/products/flexible-credential-visa/): Person picks the funding source; rules set in advance not documented
+- [Income annuities (marketplace)](https://intentinfrastructure.com/products/income-annuities-marketplace-blueprint-income/): Savings turned into insurer-backed income that lands on a set schedule, for life or a term; Blueprint sells, insurers issue
+- [Instant Buy](https://intentinfrastructure.com/products/instant-buy-perplexity-paypal/): Checkout in chat through PayPal; no limit or confirmation step documented
+- [Instant Checkout (moved)](https://intentinfrastructure.com/products/instant-checkout-moved-openai/): Coverage only
+- [Intelligent Commerce Connect](https://intentinfrastructure.com/products/intelligent-commerce-connect-visa/): Pilot
+- [Intent Intelligence](https://intentinfrastructure.com/products/intent-intelligence-american-express/): Proof-of-intent token after the customer signs off; integrations still in development
+- [Intent Services (draft)](https://intentinfrastructure.com/products/intent-services-draft-emvco/): Draft framework out for public review to 2026-09-30; not yet a specification
+- [Issuer agentic offering](https://intentinfrastructure.com/products/issuer-agentic-offering-fis/): Issuers authorize agent-initiated transactions with know-your-agent data; no cardholder-set controls
+- [Issuing for agents](https://intentinfrastructure.com/products/issuing-for-agents-stripe/): Rules at authorization
+- [Klarna Card](https://intentinfrastructure.com/products/klarna-card-klarna/): Pay now or later on one card; how the person picks is not documented
+- [KYA / KYAPay](https://intentinfrastructure.com/products/kya-kyapay-skyfire/): Per-agent spending limits; who sets them not stated; beta
+- [Link balance](https://intentinfrastructure.com/products/link-balance-stripe-instinct/): Load a balance and set a per-purchase cap; the agent buys under it without asking, larger purchases still need approval. Held as USDC; merchants are paid by card. Launched with Instinct
+- [Link wallet for agents](https://intentinfrastructure.com/products/link-wallet-for-agents-stripe/): Approve each spend
+- [Live agent payment](https://intentinfrastructure.com/products/live-agent-payment-santander/): Pilot
+- [Machine Payments Protocol](https://intentinfrastructure.com/products/machine-payments-protocol-stripe-tempo/): Agent pays per request after an HTTP 402, by card or stablecoin; sessions draw on deposits; no cap documented
+- [Money Manager](https://intentinfrastructure.com/products/money-manager-acorns/): Splits each deposit across up to five Acorns accounts by percentages the person sets
+- [Muse](https://intentinfrastructure.com/products/muse-meta/): Asks the person before purchases; at merchants without Link it pays with a single-use card scoped to the approved purchase
+- [Navoka](https://intentinfrastructure.com/products/navoka-wirex/): The agent pays from its own IBAN and card, apart from the person's accounts; the person sets merchants, a ceiling, a daily limit and countries, checked at every authorization, and anything outside waits for approval
+- [Payroll split deposit](https://intentinfrastructure.com/products/payroll-split-deposit-adp/): Enforced at deposit
+- [Privacy virtual cards](https://intentinfrastructure.com/products/privacy-virtual-cards-privacy-com/): Person-set limits on merchant-locked and single-use cards; AI assistants can create and pause cards through its MCP server. Powered by Lithic (privacy.com blog).
+- [Qube Checking (paused)](https://intentinfrastructure.com/products/qube-checking-paused-qube-money/): Was enforced at purchase
+- [Retired pay allotments](https://intentinfrastructure.com/products/retired-pay-allotments-dfas/): Up to six discretionary allotments pay insurance, mortgage or car payments straight from military retired pay, changed in myPay
+- [Retirement annuity allotments](https://intentinfrastructure.com/products/retirement-annuity-allotments-opm/): Up to two allotments of a federal retirement annuity to checking or savings, $50 minimum each, set before each payment lands
+- [Salary Sorter + Bills Pots](https://intentinfrastructure.com/products/salary-sorter-bills-pots-monzo/): Splits pay into pots when it lands; the person confirms each sort. A bills shortfall is taken from the main balance
+- [Savings goals + paycheck split](https://intentinfrastructure.com/products/savings-goals-paycheck-split-cash-app/): Up to five named goals take a share of each paycheck; goal money must go back to the Cash balance before it can be spent
+- [Spaces + virtual cards](https://intentinfrastructure.com/products/spaces-virtual-cards-starling-bank/): A Space's virtual card declines instead of dipping into the main balance
+- [Spend Cap](https://intentinfrastructure.com/products/spend-cap-afterpay/): Person sets a cap below the approved limit; orders over it are declined
+- [Split Direct Deposit + Plan](https://intentinfrastructure.com/products/split-direct-deposit-plan-dailypay/): The employee chooses where pay goes on payday. Source is DailyPay's listing on ADP's marketplace
+- [Trusted Agent Protocol](https://intentinfrastructure.com/products/trusted-agent-protocol-visa-cloudflare/): Proves the agent
+- [UCP + Universal Cart](https://intentinfrastructure.com/products/ucp-universal-cart-google-shopify/): AP2 consent proof
+- [Verifiable Intent](https://intentinfrastructure.com/products/verifiable-intent-mastercard-google/): Spec, draft v0.1; Agent Pay integration expected, not live
+- [Verified Agent](https://intentinfrastructure.com/products/verified-agent-prove/): Identity, intent, consent
+- [Visa Intelligent Commerce](https://intentinfrastructure.com/products/visa-intelligent-commerce-visa/): Consumer-set limits
+- [x402 (Linux Foundation)](https://intentinfrastructure.com/products/x402-linux-foundation-coinbase-lf/): HTTP 402 payments
+
+## Optional
+
+- [Full text](https://intentinfrastructure.com/llms-full.txt): every page above as plain Markdown
+- [OpenOrigin](https://openorigin.sh/llms.txt): a sibling site, also from Magnitude
+- [BrainBridge](https://brainbridge.sh/llms.txt): a sibling site, also from Magnitude
+- [PreApprove](https://preapprove.dev/llms.txt): a sibling site, also from Magnitude
+- [PostApproval](https://postapproval.dev/llms.txt): a sibling site, also from Magnitude
+- [Fleet Factory](https://fleetfactory.ai/llms.txt): a sibling site, also from Magnitude
